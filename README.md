@@ -2,7 +2,7 @@
 
 I launch products and shape strategy. Whether it's gigawatt-scale AI data centers or iOS apps, I turn constraints into measurable outcomes.
 
-**Finance Manager, Data Center Infrastructure @ Microsoft** | NYC
+**Finance Manager, Data Center Infrastructure @ Microsoft**
 
 ## What I'm Building
 
