@@ -6,15 +6,15 @@ I launch products and shape strategy. Whether it's gigawatt-scale AI data center
 
 ## What I'm Building
 
-🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
-🔥 **[Burn the Bridge](https://apps.apple.com/us/app/burn-the-bridge/id6752109341)** - Privacy-first journaling app for writing unsent messages
-🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
+- 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
+- 🔥 **[Burn the Bridge](https://apps.apple.com/us/app/burn-the-bridge/id6752109341)** - Privacy-first journaling app for writing unsent messages
+- 🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
 
 ## Tech Stack
 
-**Apps:** Swift, SwiftUI, SpriteKit, CloudKit, GameKit
-**Web:** TypeScript, React, Cloudflare Workers, R2
-**Data:** Python, Azure ML, H2O, SQL
+- **Apps:** Swift, SwiftUI, SpriteKit, CloudKit, GameKit
+- **Web:** TypeScript, React, Cloudflare Workers, R2
+- **Data:** Python, Azure ML, H2O, SQL
 
 ## Beyond Code
 
