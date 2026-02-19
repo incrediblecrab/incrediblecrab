@@ -2,25 +2,25 @@
 
 I launch products and shape strategy. Whether it's gigawatt-scale AI data centers or iOS apps, I turn constraints into measurable outcomes.
 
-**Finance Manager, Data Center Infrastructure @ Microsoft**
+**Finance, Data Center Infrastructure @ Microsoft**
 
 ## What I'm Building
 
 - 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
-- 🔥 **[Burn the Bridge](https://apps.apple.com/us/app/burn-the-bridge/id6752109341)** - Privacy-first journaling app for writing unsent messages
+- 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
+- 🎨 **[Rohe Studio](https://apps.apple.com/us/app/rohe-studio/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
 
 ## Tech Stack
 
 - **Apps:** Swift, SwiftUI, SpriteKit, CloudKit, GameKit
 - **Web:** TypeScript, React, Cloudflare Workers, R2
-- **Data:** Python, Azure ML, H2O, SQL
 
 ## Beyond Code
 
-- 🏔️ Hiked 51 of 63 U.S. National Parks
+- 🏔️ Hiked 53 of 63 U.S. National Parks
 - 🎓 Purdue alum (Economics + Industrial Management)
-- 📰 Former Finance Chair, Purdue Student Publishing Foundation
+- 📰 Board of Directors, Purdue Student Publishing Foundation
 
 ## Let's Connect
 
