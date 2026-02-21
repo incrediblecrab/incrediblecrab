@@ -8,7 +8,7 @@ I launch products and shape strategy. Whether it's gigawatt-scale AI data center
 
 - 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
 - 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
-- 🎨 **[Rohe Studio](https://apps.apple.com/us/app/rohe-studio/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
+- 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
 
 ## Tech Stack
