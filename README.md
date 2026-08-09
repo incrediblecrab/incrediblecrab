@@ -2,7 +2,7 @@
 
 I launch products and shape strategy. Whether it's gigawatt-scale AI data centers or iOS apps, I turn constraints into measurable outcomes.
 
-**AI Strategy and Automation @ Microsoft**
+**Applied AI Strategy and Automation @ Microsoft**
 
 ## What I'm Building
 
@@ -10,11 +10,6 @@ I launch products and shape strategy. Whether it's gigawatt-scale AI data center
 - 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
 - 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
-
-## Tech Stack
-
-- **Apps:** Swift, SwiftUI, SpriteKit, CloudKit, GameKit
-- **Web:** TypeScript, React, Cloudflare Workers, R2
 
 ## Beyond Code
 
