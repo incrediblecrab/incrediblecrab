@@ -1,6 +1,6 @@
 # Hey, I'm Max 👋
 
-I launch products and shape strategy. Whether it's gigawatt-scale AI data centers or iOS apps, I turn constraints into measurable outcomes.
+At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS and Mac apps, open-source developer tools, and 20+ VS Code extensions at mlot.ai (Max's Lab of Things).
 
 **Applied AI Strategy and Automation @ Microsoft**
 
