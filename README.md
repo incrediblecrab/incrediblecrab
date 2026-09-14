@@ -1,8 +1,8 @@
 # Hey, I'm Max 👋
 
-At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
-
 **Applied AI Strategy and Automation @ Microsoft**
+
+At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
 ## Published and Live
 
@@ -25,7 +25,7 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxmarq/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjxwYXRoIGQ9Ik0zLjUgMjEuNWMwLTQuNyAzLjgtOC41IDguNS04LjVzOC41IDMuOCA4LjUgOC41eiIvPjwvc3ZnPgo=&logoColor=white)](https://linkedin.com/in/maxmarq/)
 [![Resume](https://img.shields.io/badge/Resume-8e44ad?style=flat&logo=readdotcv&logoColor=white)](https://resume.mlot.ai)
 [![Website](https://img.shields.io/badge/mlot.ai-2ecc71?style=flat&logo=safari&logoColor=white)](https://mlot.ai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:max@mlot.ai)
