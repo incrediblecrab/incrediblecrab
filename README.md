@@ -6,10 +6,17 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 
 ## What I'm Building
 
+- 📚 **[Applied SO](https://appliedso.com)** - Interactive encyclopedia of the AI field, split by the setting a claim is true in: the machinery, the idealized proof, and what actually breaks in production
 - 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
 - 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
 - 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 🧪 **[MLoT.ai](https://mlot.ai)** - My lab of things: full-stack tools, web experiments, and 20+ VS Code/NPM packages
+
+## Working On
+
+- 🗂️ **God Index** (godindex.com, in progress) - A reversible coordinate for any passage of text: opening the coordinate reconstructs the passage with no database and nothing stored
+- ⚖️ **[Gödel loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Searching constitutions for paths where following the rules ends the constitution, starting with Gödel's 1947 claim about the U.S.
+- ✍️ **Emerson** - A new linguistics repo, just getting started
 
 ## Beyond Code
 
