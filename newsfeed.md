@@ -1,5 +1,0 @@
-# 09-13-26
-
-- **[Expert Personas Improve LLM Alignment but Damage Accuracy: Bootstrapping Intent-Based Persona Routing with PRISM](https://arxiv.org/pdf/2603.18507)** - Expert personas steer a model toward a domain's tone and human alignment while measurably costing it accuracy, so the paper routes personas by inferred intent rather than assigning them by default.
-- **[Prompting Science Report 4: Playing Pretend: Expert Personas Don't Improve Factual Accuracy](https://arxiv.org/pdf/2512.05858)** - Across six models on GPQA Diamond and MMLU-Pro, matching an expert persona to the question's own domain produced no significant gain on hard multiple-choice questions.
-- **[When "A Helpful Assistant" Is Not Really Helpful: Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/pdf/2311.10054)** - A sweep of 162 roles across four LLM families and 2,410 factual questions found that adding a persona to the system prompt does not improve objective task performance.
