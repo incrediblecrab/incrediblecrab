@@ -25,6 +25,6 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 
 ## Let's Connect
 
-[![Website](https://img.shields.io/badge/mlot.ai-2ecc71?style=flat&logo=safari&logoColor=white)](https://mlot.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxmarq/)
+[![Website](https://img.shields.io/badge/mlot.ai-2ecc71?style=flat&logo=safari&logoColor=white)](https://mlot.ai)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:max@mlot.ai)
