@@ -9,7 +9,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 Great work starts with curiosity and exploration. Let's chat!
 
-## Let's Connect
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjxwYXRoIGQ9Ik0zLjUgMjEuNWMwLTQuNyAzLjgtOC41IDguNS04LjVzOC41IDMuOCA4LjUgOC41eiIvPjwvc3ZnPgo=&logoColor=white)](https://linkedin.com/in/maxmarq/)
 [![Resume](https://img.shields.io/badge/Resume-8e44ad?style=flat&logo=readdotcv&logoColor=white)](https://resume.mlot.ai)
