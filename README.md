@@ -16,7 +16,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 ## Currently Building and Learning
 
-- 🍳 **[llmmm](https://github.com/incrediblecrab/llmmm)** - Ingredient and recipe models trained from scratch
+- 🍳 **[LLMMM](https://github.com/incrediblecrab/llmmm)** - Ingredient and recipe models trained from scratch
 - ⚖️ **[Gödel Loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - 🍎 **[Apple OS Documentation](https://github.com/incrediblecrab/apple-os-documentation)** - Plain-Markdown Apple and Xcode references an LLM can actually read
 - ☁️ **God Index** - Digital library algorithm of everything
