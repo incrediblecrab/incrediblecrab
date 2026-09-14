@@ -23,8 +23,8 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 ## Sites and Software
 
 - 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
-- 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - 11 editor extensions published under Max's Lab of Things
-- 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - 7 published packages, from CLI tooling to accessibility checks
+- 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - Extensions published under Max's Lab of Things
+- 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - Published packages, from CLI tooling to accessibility checks
 
 ## Repos
 
