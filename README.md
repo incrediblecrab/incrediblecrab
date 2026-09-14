@@ -1,6 +1,6 @@
 # Hey, I'm Max 👋
 
-At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS and Mac apps, open-source developer tools, and 20+ VS Code extensions at mlot.ai (Max's Lab of Things).
+At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
 **Applied AI Strategy and Automation @ Microsoft**
 
