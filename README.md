@@ -5,7 +5,7 @@
 **Portfolio:** [mlot.ai](https://mlot.ai) (Max's Lab of Things)  
 **Interests:** Token efficiency, game theory, behavioral economics, typography, analog photography, [U.S. National Parks](https://photos.app.goo.gl/D1MwgVsHhegHAchx5) (53/63)
 
-Model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
+I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
 ## Published and Live
 
@@ -16,7 +16,7 @@ Model uncertainty and the bias behind it, because every gigawatt of AI compute i
 
 ## Currently Building and Learning
 
-- ⚖️ **[Gödel loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
+- ⚖️ **[Gödel Loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - ☁️ **God Index** - Digital library algorithm of everything
 - ✍️ **Emerson** - Research on linguistics and semantics
 
