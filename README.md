@@ -15,7 +15,7 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 ## Currently Building and Learning
 
 - 🗂️ **God Index** - Digital library algorithm of everything
-- ⚖️ **[Gödel loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Searching constitutions for paths where following the rules ends the constitution, starting with Gödel's 1947 claim about the U.S.
+- ⚖️ **[Gödel loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - ✍️ **Emerson** - A new linguistics repo, just getting started
 
 ## Beyond Code
