@@ -13,6 +13,8 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 - 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
 - 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
+- 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - 11 editor extensions published under Max's Lab of Things
+- 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - 7 published packages, from CLI tooling to accessibility checks
 
 ## Currently Building and Learning
 
