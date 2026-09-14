@@ -5,7 +5,7 @@
 **Portfolio:** [mlot.ai](https://mlot.ai) (Max's Lab of Things)  
 **Interests:** Token efficiency, game theory, behavioral economics, typography, analog photography, [U.S. National Parks](https://photos.app.goo.gl/D1MwgVsHhegHAchx5) (53/63)
 
-At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
+Model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
 ## Published and Live
 
