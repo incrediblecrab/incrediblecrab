@@ -2,6 +2,9 @@
 
 **Applied AI Strategy and Automation @ Microsoft**
 
+**Portfolio:** [mlot.ai](https://mlot.ai) (Max's Lab of Things)  
+**Interests:** Token efficiency, game theory, behavioral economics, typography, analog photography, National Parks ([53/63](https://photos.app.goo.gl/D1MwgVsHhegHAchx5))
+
 At Microsoft, I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
 ## Published and Live
@@ -17,11 +20,6 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 - ⚖️ **[Gödel loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - ☁️ **God Index** - Digital library algorithm of everything
 - ✍️ **Emerson** - Research on linguistics and semantics
-
-## Beyond Code
-
-- 🏔️ [53 of 63](https://photos.app.goo.gl/D1MwgVsHhegHAchx5) U.S. National Parks hiked, camped, and photographed
-- 🎓 Purdue alum (BS, Double Major in Economics + Industrial Management: Financial Engineering)
 
 ## Let's Connect
 
