@@ -20,7 +20,7 @@ At Microsoft, I model uncertainty and the bias behind it, because every gigawatt
 
 ## Beyond Code
 
-- 🏔️ Hiked 53 of 63 U.S. National Parks
+- 🏔️ Hiked [53 of 63](https://photos.app.goo.gl/D1MwgVsHhegHAchx5) U.S. National Parks
 - 🎓 Purdue alum (Economics + Industrial Management)
 - 📰 Board of Directors, Purdue Student Publishing Foundation
 
