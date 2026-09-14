@@ -7,20 +7,26 @@
 
 I model uncertainty and the bias behind it, because every gigawatt of AI compute is a billion-dollar bet on belief. I've also shipped iOS/Mac apps and open-source developer tools.
 
-## Published and Live
+## iOS and Mac Applications
 
-- 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
 - 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
 - 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
 - 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
+
+## Published Sites and Software
+
+- 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
 - 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - 11 editor extensions published under Max's Lab of Things
 - 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - 7 published packages, from CLI tooling to accessibility checks
 
-## Currently Building and Learning
+## Published Repos
 
 - 🍳 **[LLMMM](https://github.com/incrediblecrab/llmmm)** - Ingredient and recipe models on a masked-set Transformer encoder
 - ⚖️ **[Gödel Loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - 🍎 **[Apple OS Documentation](https://github.com/incrediblecrab/apple-os-documentation)** - Systematic Apple and Xcode references an LLM can actually read
+
+## Work in Progress
+
 - ☁️ **God Index** - Digital library algorithm of everything
 - ✍️ **Emerson** - Research on linguistics and semantics
 
