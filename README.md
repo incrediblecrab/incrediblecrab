@@ -27,7 +27,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 ## Repos
 
-- 🍳 **[LLMMM](https://github.com/incrediblecrab/llmmm)** - Ingredient and recipe models on a masked-set Transformer encoder
+- 🍳 **[LLMMM](https://huggingface.co/incrediblecrab/llmmm-recipes)** - Ingredient and recipe models on a masked-set Transformer encoder
 - ⚖️ **[Gödel Loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
 - 🍎 **[Apple OS Documentation](https://github.com/incrediblecrab/apple-os-documentation)** - Systematic Apple and Xcode references an LLM can actually read
 
