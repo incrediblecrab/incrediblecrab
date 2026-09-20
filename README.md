@@ -22,14 +22,9 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 ## Sites and Software
 
 - 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
+- 🪐 **[Barycenter](https://barycenter.wiki/)** - Copy-ready prompt blocks for implementation, writing, and research
 - 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - Extensions published under Max's Lab of Things
 - 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - Published packages, from CLI tooling to accessibility checks
-
-## Repos
-
-- 🍳 **[LLMMM](https://huggingface.co/incrediblecrab/llmmm-recipes)** - Ingredient and recipe models on a masked-set Transformer encoder
-- ⚖️ **[Gödel Loopholes](https://github.com/incrediblecrab/godel-loopholes)** - Digging for logic breaks in nations' founding documents
-- 🍎 **[Apple OS Documentation](https://github.com/incrediblecrab/apple-os-documentation)** - Systematic Apple and Xcode references an LLM can actually read
 
 ## Work in Progress
 
