@@ -10,9 +10,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjxwYXRoIGQ9Ik0zLjUgMjEuNWMwLTQuNyAzLjgtOC41IDguNS04LjVzOC41IDMuOCA4LjUgOC41eiIvPjwvc3ZnPgo=&logoColor=white)](https://linkedin.com/in/maxmarq/)
-[![Resume](https://img.shields.io/badge/Resume-8e44ad?style=flat&logo=readdotcv&logoColor=white)](https://resume.mlot.ai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:max@mlot.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNyIgcj0iNCIvPjxwYXRoIGQ9Ik0zLjUgMjEuNWMwLTQuNyAzLjgtOC41IDguNS04LjVzOC41IDMuOCA4LjUgOC41eiIvPjwvc3ZnPgo=&logoColor=white)](https://linkedin.com/in/maxmarq/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/incrediblecrab) [![Resume](https://img.shields.io/badge/Resume-8e44ad?style=flat&logo=readdotcv&logoColor=white)](https://resume.mlot.ai) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:max@mlot.ai)
 
 ## iOS and Mac Applications
 
@@ -31,3 +29,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 - ☁️ **God Index** - Digital library algorithm of everything
 - ✍️ **Emerson** - Research on linguistics and semantics
+- 🧮 **Erdős Problems** - Tracker for the erdosproblems.com database and sustained work on individual problems
+- 💬 **Computational Linguistics of Prompts** - Pre-registered experiments on how a prompt's wording changes what language models produce
+- 🏛️ **Congressional Research Service Products** - Open dataset of CRS products from Congress.gov, with full text, kept current automatically
+- 🗳️ **Marginal Democracy** - Review of the research on marginal versus average voters
