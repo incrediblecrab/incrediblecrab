@@ -14,22 +14,22 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 
 ## iOS and Mac Applications
 
-- 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle virtual pet game with companions, seasonal events, and conservation education
-- 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, customizable clock, and 60fps visuals
-- 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, biometric lock, and iCloud sync
+- 🐼 **[Panda Friends](https://apps.apple.com/us/app/panda-friends/id6753837741)** - Idle pet game with companions, seasonal events, and conservation education
+- 🎨 **[wallpaperOS](https://apps.apple.com/us/app/wallpaperos/id6759169322)** - Generative art app with animated wallpapers, custom clock, and 60fps visuals
+- 📋 **[Repaste](https://repaste.app/)** - Free, open-source macOS clipboard manager with tags, Touch ID, and iCloud sync
 
 ## Sites and Software
 
 - 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
-- 🪐 **[Barycenter](https://barycenter.wiki/)** - Copy-ready prompt blocks for implementation, writing, and research, used alone or combined
-- 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - Extensions published under Max's Lab of Things, mostly for files, snippets, and prompts
-- 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - Published packages, from CLI tooling to accessibility checks and scans for AI-generated code
+- 🪐 **[Barycenter](https://barycenter.wiki/)** - Copy-ready prompt blocks for implementation, writing, and research
+- 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - Published under Max's Lab of Things, mostly for files, snippets, and prompts
+- 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - Published packages, from CLI tooling to accessibility checks
 
 ## Work in Progress
 
-- ☁️ **God Index** - Digital library algorithm of everything, giving each possible 10M-character text a hash coordinate
+- ☁️ **God Index** - Digital library algorithm of everything, one coordinate per 10M-character text
 - ✍️ **Emerson** - Research on linguistics and semantics
-- 🧮 **Erdős Problems** - Tracker for the erdosproblems.com database and sustained work on individual problems
-- 💬 **Computational Linguistics of Prompts** - Pre-registered experiments on how a prompt's wording changes what language models produce
-- 🏛️ **Congressional Research Service Products** - Open dataset of CRS products from Congress.gov, with full text, kept current automatically
-- 🗳️ **Marginal Democracy** - Review of research on marginal versus average voters, from jury theorems to compulsory voting
+- 🧮 **Erdős Problems** - Tracker for the erdosproblems.com database and work on individual problems
+- 💬 **Computational Linguistics of Prompts** - Pre-registered experiments on how a prompt's wording changes model output
+- 🏛️ **Congressional Research Service Products** - Open dataset from Congress.gov, with full text, kept current automatically
+- 🗳️ **Marginal Democracy** - Review of research on marginal versus average voters, from Condorcet to turnout
