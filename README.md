@@ -31,5 +31,6 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 - ✍️ **Emerson** - Research on linguistics and semantics
 - 🧮 **Erdős Problems** - Tracker for the erdosproblems.com database and work on individual problems
 - 💬 **Computational Linguistics of Prompts** - Pre-registered experiments on how a prompt's wording changes model output
-- 🏛️ **Congressional Research Service Products** - Open dataset from Congress.gov, with full text, kept current automatically
+- 🏛️ **[Congressional Research Service Products](https://github.com/incrediblecrab/crs-service-products)** - Open datasets from Congress.gov and GovInfo: [research papers](https://huggingface.co/datasets/incrediblecrab/crs-research-papers), [bill summaries](https://huggingface.co/datasets/incrediblecrab/crs-bill-summaries), and [Constitution Annotated](https://huggingface.co/datasets/incrediblecrab/crs-constitution)
 - 🗳️ **Marginal Democracy** - Review of research on marginal versus average voters, from Condorcet to turnout
+- ⚖️ **[US Local Laws](https://github.com/incrediblecrab/us-local-laws)** - Open dataset of local laws published on Municode, mirrored to [Hugging Face](https://huggingface.co/datasets/incrediblecrab/us-local-laws)
