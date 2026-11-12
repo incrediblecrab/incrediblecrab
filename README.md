@@ -21,7 +21,7 @@ I model uncertainty and the bias behind it, because every gigawatt of AI compute
 ## Sites and Software
 
 - 📚 **[Applied Studies and Observations](https://appliedso.com)** - An encyclopedia for the knowing ones
-- 🪐 **[Barycenter](https://barycenter.wiki/)** - Copy-ready prompt blocks for implementation, writing, and research
+- 🪐 **[eli5.work](https://eli5.work/)** - Copy-ready prompt blocks for implementation, writing, and research
 - 🧩 **[VS Code Extensions](https://marketplace.visualstudio.com/publishers/maxs-lab-of-things)** - Published under Max's Lab of Things, mostly for files, snippets, and prompts
 - 📦 **[NPM Packages](https://www.npmjs.com/~incrediblecrab)** - Published packages, from CLI tooling to accessibility checks
 
